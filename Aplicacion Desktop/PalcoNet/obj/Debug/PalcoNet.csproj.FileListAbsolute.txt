@@ -1,0 +1,15 @@
+\\VBOXSVR\PalcoNet\src\PalcoNet\bin\Debug\PalcoNet.exe.config
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\obj\Debug\PalcoNet.Abm_Cliente.ABMCliente.resources
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\obj\Debug\PalcoNet.Abm_Cliente.busqueda_cliente.resources
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\obj\Debug\PalcoNet.LogIn.resources
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\obj\Debug\PalcoNet.Menu.resources
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\obj\Debug\PalcoNet.Properties.Resources.resources
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\obj\Debug\PalcoNet.csproj.GenerateResource.Cache
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\bin\Debug\PalcoNet.exe.config
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\bin\Debug\PalcoNet.exe
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\bin\Debug\PalcoNet.pdb
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\bin\Debug\ClassLibrary1.dll
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\bin\Debug\ClassLibrary1.pdb
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\obj\Debug\PalcoNet.csprojResolveAssemblyReference.cache
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\obj\Debug\PalcoNet.exe
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\PalcoNet\obj\Debug\PalcoNet.pdb

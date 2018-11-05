@@ -1,0 +1,4 @@
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ABM\Desktop\TP PalcoNet Frba 1.0 - 2C 2018\Aplicacion Desktop\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
